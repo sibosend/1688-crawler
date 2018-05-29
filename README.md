@@ -1,6 +1,6 @@
 ## 1688爬虫，仅供学习参考使用
 
-##安装指南：（需要php5.6和composer）
+## 安装指南：（需要php5.6和composer）
 - 下载 [php-phantomjs-master](https://github.com/jonnnnyw/php-phantomjs)
 - 解压缩 运行composer update
 - 将cache和Robots拷贝到php-phantomjs-master目录下
