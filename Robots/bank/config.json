@@ -1,0 +1,7 @@
+{
+  "maxDiskCacheSize": 2000,
+
+  "cookiesFile": "cookie_test.txt",
+
+  "offlineStorageDefaultQuota": 2000
+}
